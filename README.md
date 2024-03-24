@@ -1,3 +1,18 @@
+## Think Bayes 2 macos installation notes
+
+see the logs under make-log.md
+the make command does not seems to work
+
+I follow it by hand and it is ok (not sure why it does not work ...)
+including requirement
+
+I did a test as well, but fail as no Bay2 env
+
+The missing commands is
+```
+(TB2) ... > jupyter notebook 
+```
+
 # Think Bayes 2
 
 by Allen B. Downey
